@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <h1> i have created git hub account</h1>
 <<<<<<< HEAD
-      <h1>hello world</h1>
-      <h1> welcome to git repository</h1>
+      <h1><h1>hello world</h1><h1> welcome to git repository</h1></h1>
 =======
     <h2>hello world</h2>
     
